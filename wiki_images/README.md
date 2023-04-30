@@ -1,1 +1,1 @@
-Contains IMAGES
+This Folder Contains images For Wiki Page.
